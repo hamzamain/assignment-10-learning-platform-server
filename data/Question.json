@@ -1,0 +1,19 @@
+[
+    {
+        "title": "What is Cors?",
+        "details": "Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served"
+    },
+    {
+        "title": "Why Firebase? and Alternatives of it?",
+        "details": "Firebase provides tools to grow your app and business, for startups & global enterprises. Get your app up and running quickly & securely with fully managed backend infrastructure. Backed by Google. 15+ Products & Solutions. Some Alternatives of firebase are /Back4App  /Backendless  /Kuzzle  /Pubnub  /Kumulos  /Appwrite  /Deployd  /NHost  /AWS  /Amplify  /Heroku"
+        
+    },
+    {
+        "title": "how private router works in react?",
+        "details": "Private Routes in React Router (also called Protected Routes) require a user being authorized to visit a route (read: page). So if a user is not authorized for a specific page, they cannot access it"
+    },
+    {
+        "title": "What is Node.js?",
+        "details": "Node. js is a JavaScript runtime environment that achieves low latency and high throughput by taking a “non-blocking” approach to serving requests. In other words, Node. js wastes no time or resources on waiting for I/O requests to return"
+    }
+]

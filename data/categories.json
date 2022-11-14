@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "guid": "0e187f12-a0e7-4520-88e0-9d220b6430e7",
+      "isActive": false,
+      "picture": "https://img.myloview.com/posters/modern-flat-design-concept-of-software-development-with-characters-on-screen-programming-and-coding-can-use-for-banner-business-mobil-app-landing-page-website-template-flat-vector-illustration-400-174125719.jpg",
+      "name": "Software Development"
+    },
+    {
+      "id": 2,
+      "guid": "e4b40648-33d3-4e50-a711-9199f488c510",
+      "isActive": false,
+      "picture": "https://craftercms.com/static-assets/images/blog/top-javascript-frameworks.webp",
+      "name": "JavaScript"
+    },
+    {
+      "id": 3,
+      "guid": "39eed400-e774-4719-acd9-90764cb91935",
+      "isActive": true,
+      "picture": "https://image.shutterstock.com/image-vector/banner-written-web-design-development-260nw-1452211172.jpg",
+      "name": "Web Development"
+    },
+    {
+      "id": 4,
+      "guid": "462d5298-4017-4cc5-982d-f7ae35282211",
+      "isActive": true,
+      "picture": "https://image.shutterstock.com/image-vector/banner-written-web-design-development-260nw-1452211172.jpg",
+      "name": "C/C++"
+    },
+    {
+      "id": 5,
+      "guid": "d56178ca-cc15-4b3a-890f-166c3693c015",
+      "isActive": true,
+      "picture": "https://images-platform.99static.com//t1JVDMNSYtG7TUIT-jqybhzvzZ8=/fit-in/590x590/projects-files/113/11302/1130227/b1759218-cfdd-4bba-8129-f1312323471e.jpg",
+      "name": "Python"
+    },
+    {
+      "id": 6,
+      "guid": "10de94c4-24c6-402b-9260-67d295c39978",
+      "isActive": false,
+      "picture": "https://www.fiahub.com/blog/wp-content/uploads/2021/12/a1-13.jpg",
+      "name": "Block Chain"
+    }
+  ]
